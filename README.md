@@ -9,6 +9,5 @@ The DHTML Calendar
   This program is free software published under the
   terms of the GNU Lesser General Public License.
 
-  For the entire license text please refer to
-  http://www.gnu.org/licenses/lgpl.html
-
+  For the entire license text please refer to the LICENSE file
+  
